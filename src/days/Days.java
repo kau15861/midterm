@@ -15,7 +15,7 @@ import java.util.Scanner;
  * then print the week day names. 
  *
  * @author sivagamasrinivasan
- * harmanpreet kaur
+ * harmanpreetkaur
  jn 22nd
  */
 public class Days {
